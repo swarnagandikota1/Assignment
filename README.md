@@ -147,18 +147,3 @@ src/
 
 ---
 
-## 🤖 AI Disclosure
-
-- **Tool used:** Claude (Anthropic)
-- **AI-assisted:** Code scaffolding, component structure, API route logic
-- **Human decisions:** Architecture design, business rule mapping from BRS, data model, workflow logic
-
----
-
-## 📌 Out of Scope (Not Built)
-
-- Payment gateway
-- SMS/WhatsApp notifications
-- AI prediction
-- Multi-college complexity
-- Marketing automation
